@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a https://t.me/This_is_SandyBS>☢ SANDYBS ☢</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a https://t.me/This_is_SandyBS>☢SANDYBS☢</a></b>
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/+OlWJCv7MFnY1NDE1>SC UPDATES 👾</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 

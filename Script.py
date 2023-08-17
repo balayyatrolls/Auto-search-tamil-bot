@@ -200,8 +200,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/+1jYXoGgYKRJiYzBl> EXPLOREMOVIES SC </a>
-▫️<a href=https://t.me/SCMoviesDiscussionl> MOVIES GROUP </a>
+▫️<a href=https://t.me/+1jYXoGgYKRJiYzBl> ExploreMovie SC </a>
+▫️<a href=https://t.me/SCMoviesDiscussionl> MovieGroup SC </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """

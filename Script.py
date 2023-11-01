@@ -6,8 +6,8 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a https://t.me/This_is_SandyBS>☢SANDYBS☢</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/+OlWJCv7MFnY1NDE1>SC UPDATES 👾</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a https://t.me/BT_FILES>☢SQUAD ORIGINALS☢</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/BT_FILES>SC UPDATES 👾</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
@@ -15,9 +15,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Wᴀɴᴛ ᴛʜɪs Bᴏᴛ Rᴇᴘᴏ? - <a href='https://github.com/sandybs'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 🙃</b>
+Wᴀɴᴛ ᴛʜɪs Bᴏᴛ Rᴇᴘᴏ? - <a href='squadadminbot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 🙃</b>
 
-Mᴏʀᴇ Iɴғᴏ Aʙᴏᴜᴛ ᴛʜɪs Rᴇᴘᴏ - <a href='https://t.me/SCExploreLinks'>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
+Mᴏʀᴇ Iɴғᴏ Aʙᴏᴜᴛ ᴛʜɪs Rᴇᴘᴏ - <a href='https://t.me/BT_FILES'>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -39,7 +39,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/TeamHMT_Bots)</code>
+<code>[Button Text](buttonurl:https://t.me/BT_FILES)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -200,8 +200,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/+1jYXoGgYKRJiYzBl> ExploreMovie SC </a>
-▫️<a href=https://t.me/SCMoviesDiscussionl> MovieGroup SC </a>
+▫️<a href=https://t.me/bt_files> MAIN CHANNEL </a>
+▫️<a href=https://t.me/bt_discussions> MovieGroup </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
@@ -245,10 +245,5 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
-
-████████╗████████╗  ██████╗░░█████╗░████████╗░██████╗
-╚══██╔══╝╚══██╔══╝  ██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
-░░░██║░░░░░░██║░░░  ██████╦╝██║░░██║░░░██║░░░╚█████╗░
-░░░██║░░░░░░██║░░░  ██╔══██╗██║░░██║░░░██║░░░░╚═══██╗
-░░░██║░░░░░░██║░░░  ██████╦╝╚█████╔╝░░░██║░░░██████╔╝
-░░░╚═╝░░░░░░╚═╝░░░  ╚═════╝░░╚════╝░░░░╚═╝░░░╚═════╝░"""
+ STARTING......
+    SQUAD ORIGINALS

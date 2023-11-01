@@ -245,5 +245,5 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
- <b>  STARTING......
-    SQUAD ORIGINALS </b>
+        STARTING......
+    SQUAD ORIGINALS """

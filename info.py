@@ -18,7 +18,7 @@ API_HASH = environ.get('API_HASH', '3105b734ec320ca2641e481955cda8e2')
 BOT_TOKEN = environ.get('BOT_TOKEN', "6919854297:AAEM54IbAbPVY86i7vJfsbe6si9OyFnjyCY")
 
 # Bot settings
-CACHE_TIME = int(environ.get('CACHE_TIME', 300))
+CACHE_TIME = int(environ.get('CACHE_TIME', 120))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://telegra.ph/file/269f6a7a4d216b862e462.jpg')).split() #SAMPLE PIC
@@ -43,7 +43,7 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://vayoya2123:manadheidhi@cluster0.wo3tauy.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "RY")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
@@ -61,10 +61,10 @@ CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+1jYXoGgYKRJiYzBl')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/c/1605505945/286')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001880140310'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001895659932'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'SCMoviesDiscussion')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
-IMDB = is_enabled((environ.get('IMDB', "True")), True)
+IMDB = is_enabled((environ.get('IMDB', "True")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), True)
